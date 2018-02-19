@@ -11,7 +11,7 @@ function getServerData() {
         URL: "/quotes",
         success: function(data){
             console.log("Server Data Received");
-            arrayOfQuotes = data.quotes;
+            arrayOfQuotes = data.blurbs;
             console.log(data);
         }
     })

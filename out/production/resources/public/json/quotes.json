@@ -1,0 +1,44 @@
+{
+  "quotes": [
+    {
+      "quotes" : "We build our computer (systems) the way we build our cities: over time, without a plan, on top of ruins."
+      "name" : "-Ellen Ullman-"
+    },
+    {
+      "quotes" : "What one programmer can do in one month, two programmers can do in two months."
+      "name" : "-Fred Brooks-"
+    },
+    {
+      "quotes" : "Every great developer you know got there by solving problems they were unqualified to solve until they actually did it."
+      "name" : "-Patrick McKenzie-"
+    },
+    {
+      "quotes" : "A primary cause of complexity is that software vendors uncritically adopt almost any feature that users want."
+      "name" : "-Niklaus Wirth-"
+    },
+    {
+      "quotes" : "No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first."
+      "name" : "-Andy Hunt-"
+    },
+    {
+      "quotes" : "Java is to JavaScript as ham is to hamster."
+      "name" : "-Jeremy Keith-"
+    },
+    {
+      "quotes" : "One of the best programming skills you can have is knowing when to walk away for awhile"
+      "name" : "-Oscar Godson-"
+    },
+    {
+      "quotes" : "One of the best programming skills you can have is knowing when to walk away for awhile"
+      "name" : "-Louis Srygley-"
+    },
+    {
+      "quotes" : "A program is never less than 90% complete, and never more than 95% complete"
+      "name" : "-Terry Baker-"
+    },
+    {
+      "quotes" : "Programming languages, like pizzas, come in only too sizes; too big and too small."
+      "name" : "-Richard E. Pattis-"
+    }
+  ]
+}
